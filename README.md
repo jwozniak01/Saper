@@ -1,2 +1,1 @@
-Prosty projekt sapera w C# stworzony dla zabawy.
-Wykorzystałem techonologię WPF.
+Simple implementation of Minesweeper in C# WPF.
